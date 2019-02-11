@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name"></string>
+
+    <!-- Fonts -->
+    <string-array name="fonts">
+        <item>Regular.ttf</item>
+        <item>Medium.ttf</item>
+        <item>Black.ttf</item>
+    </string-array>
+
+    <!-- Google Maps -->
+    <string name="google_maps_key">AIzaSyAdX5Olr02KqDBsbynqVl4qFrcPblZfSg8</string>
+</resources>
